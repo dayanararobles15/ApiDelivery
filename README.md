@@ -9,14 +9,11 @@ In this project, the management of the orders is carried out by assigning them t
 
 ## :woman_technologist: Technology
 
--JavaScript
-
--HTML
-
--Handlebars
+-C#
 
 ## :clipboard: Requirements
 
+-C# for Visual Studio Code
 
 ## :computer: IDE
 
